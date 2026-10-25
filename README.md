@@ -1,2 +1,2 @@
 # demo
-Demo for understanding
+Demo for understanding.
